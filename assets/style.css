@@ -1,0 +1,9 @@
+#myChart,
+#myChart_daily,
+#myChart_monthly {
+    border: 1px solid red;
+    width: 100%;
+    height: 400px;
+    max-height: 400px;
+    padding: 10px;
+}
